@@ -71,3 +71,29 @@ I built the complete app frontend in Flutter, integrated Firebase for auth and r
 - 🔄 Cloud Functions for secure message flow and alerting
 
 **Note:** This project was built as a client contract and is not published on any store.
+
+---
+
+## 🗣️ Something AI – Personality-Powered Voice Chatbot + Fun AI Companion  
+**[Private Project – Not Public]**
+
+**Tech Stack:** Flutter • Firebase • Firebase Functions • OpenAI API (GPT) • Text-to-Speech • Speech-to-Text
+
+**Overview:**  
+Something AI is a personality-based AI chatbot and voice assistant app with interactive characters and mini-games. Designed to be both helpful and entertaining, the app allows users to speak with AI personas that provide answers, tell jokes, or just keep the user company.
+
+**My Role:**  
+I developed the entire frontend in Flutter, implemented AI response flows using GPT and Firebase Functions, and managed all character interactions with prompt engineering. I integrated voice input/output features using text-to-speech and speech-to-text packages.
+
+**Key Features:**
+- 🎙️ Voice-activated AI chat with real-time response
+- 🧠 3 Unique GPT-powered characters:
+  - **Nancy** – sweet, caring personality
+  - **Bob** – rude and sarcastic
+  - **Ted** – slow and funny (dumb by design)
+- 🧩 Character-specific prompts via OpenAI
+- 🕹️ Includes fun, simple in-app games
+- 🔊 Text-to-speech + Speech-to-text integration
+- 🔒 Firebase + Cloud Functions for structured messaging
+
+**Note:** This project is not published publicly and built as a private contract. No code is shared due to IP restrictions.
