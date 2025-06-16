@@ -21,3 +21,30 @@ An AI-powered SaaS platform that generates full project ticket breakdowns using 
 🔗 [Live site](https://reqit.ai)
 
 ---
+
+## 🤖 ReviveBot – AI Wellness Companion  
+[📲 Live on Google Play](https://play.google.com/store/apps/details?id=com.revivebot.revivebot)
+
+**Tech Stack:** Flutter • Firebase Auth • Firestore • Firebase Functions • GPT API • Speech-to-Text • Text-to-Speech
+
+**Overview:**  
+ReviveBot is a real-time AI wellness companion app that allows users to interact with virtual characters for mental health, fitness, and nutrition advice. Each character is powered by prompt-engineered GPT interactions and speaks using dynamic voice synthesis.
+
+**My Role:**  
+I developed the full frontend in Flutter, integrated Firebase Auth (Google & Apple login), and implemented voice input/output flows. I built secure Cloud Functions to manage structured GPT API requests and prompt responses. I also led the character selection UX and voice assistant flow.
+
+**Key Features:**
+- 👤 Google & Apple Sign-in  
+- 🎭 Character Selection:  
+  - Mental Health Coach (female)  
+  - Fitness Trainer (black male)  
+  - Nutritionist (Chinese male, English speaker)  
+- 🗣️ GPT-powered conversations with personality-based prompts  
+- 🧠 Speech-to-text and text-to-speech integration  
+- 🔒 Firebase Functions to handle secure GPT interactions  
+- 🎨 Flutter UI optimized for mobile wellness flow
+
+**Link:**  
+[➡️ Available on Play Store](https://play.google.com/store/apps/details?id=com.revivebot.revivebot)
+
+---
