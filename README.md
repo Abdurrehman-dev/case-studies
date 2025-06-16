@@ -97,3 +97,27 @@ I developed the entire frontend in Flutter, implemented AI response flows using 
 - 🔒 Firebase + Cloud Functions for structured messaging
 
 **Note:** This project is not published publicly and built as a private contract. No code is shared due to IP restrictions.
+
+---
+
+## 🚗 Dailyway – Community Carpooling & Live Ride Chat App  
+**[Private Project – Not Public]**
+
+**Tech Stack:** Flutter • Firebase Auth • Firestore • Cloud Functions • Google Maps API • Push Notifications • Firebase Messaging
+
+**Overview:**  
+Dailyway is a real-time carpooling and ride-sharing app where drivers can offer available seats and passengers can reserve single or multiple seats along the same route. The app includes a vibrant public chat forum where users ask about routes, available rides, and coordinate travel directly.
+
+**My Role:**  
+I developed the complete app frontend using Flutter, integrated Firebase Auth and real-time Firestore logic for seat availability, created the chat and public forum system, and implemented live Google Maps-based route matching. I also managed notifications and built chat moderation workflows.
+
+**Key Features:**
+- 🛣️ Driver seat listing with per-ride availability
+- 🧍 Passengers can book 1 to 3 seats for a ride
+- 📍 Google Maps location tracking and matching
+- 💬 Real-time chat between drivers and passengers
+- 🌐 Public forum for open community ride discussions
+- 📲 Push notifications for ride updates and new messages
+- 🚀 1000+ daily messages in forum during peak usage
+
+**Note:** This project is not live on app stores, built under contract. Code is private under NDA.
