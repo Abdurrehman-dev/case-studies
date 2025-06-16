@@ -48,3 +48,26 @@ I developed the full frontend in Flutter, integrated Firebase Auth (Google & App
 [➡️ Available on Play Store](https://play.google.com/store/apps/details?id=com.revivebot.revivebot)
 
 ---
+
+## 🌍 Nature Explorer – Social Adventure Discovery App  
+**[Private Project – Not Published]**
+
+**Tech Stack:** Flutter • Firebase Auth • Firestore • Firebase Cloud Functions • Google Maps API • Push Notifications • Live Location • Firebase Messaging
+
+**Overview:**  
+Nature Explorer is a real-time mobile platform for discovering and sharing nature experiences. Users can explore nearby natural locations like rivers, mountains, lakes, and deserts based on a customizable radius, upload journey photos, and interact with others via chat and follows.
+
+**My Role:**  
+I built the complete app frontend in Flutter, integrated Firebase for auth and real-time chat, and implemented live location tracking with Google Maps. I also handled push notifications and Firebase Functions for secure access and chat handling.
+
+**Key Features:**
+- 📩 Email/password signup and profile creation (name, age, interests, image)
+- 🏞️ Category-based location filtering (rivers, beaches, caves, etc.)
+- 📍 Map view with live location-based search radius
+- 📸 Journey photo uploads for each visited location
+- 👀 View others' journey photos per location
+- 🧑‍🤝‍🧑 Follow users and see their activity
+- 💬 Real-time Firebase chat with push notifications
+- 🔄 Cloud Functions for secure message flow and alerting
+
+**Note:** This project was built as a client contract and is not published on any store.
